@@ -1,6 +1,6 @@
 # Text Data for Sentiment Analysis
 # Link to download - https://www.kaggle.com/datasets/akashharh/text-data
-# I've downloaded it and saved as sentiment_analysis.csv
+# I've downloaded it and saved it as 'sentiment_analysis.csv'.
 
 This dataset contains social media posts labeled with sentiments (positive, negative, or neutral). It can be used for training and evaluating sentiment analysis models.
 
